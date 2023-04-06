@@ -1,0 +1,125 @@
+.navbar {
+    display: flex;
+    background-color: #333;
+    height: 75px;
+    width: 100%;
+    align-items: center;
+    background-size: cover;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 0em 0.5em;
+}
+
+.back {
+    background-image: url(https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 48px;
+    height: 250px;
+    /* margin: -1.5em; */
+}
+
+
+
+.body {
+    margin: 100px 35%;
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    color: #212529;
+    text-align: left;
+    font: arial;
+    font-size: large;
+}
+.page{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.pg1 {
+    text-align: center;
+    color: white;
+    font-size: 1.75rem 
+}
+
+.pg2 {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.single {
+
+    font-size: 20px;
+    margin: 0px 0px 16px;
+}
+
+.universe {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.back2 {
+    background-image: url(./images/pexels-photo-531880.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 3.5em;
+    height: 400px;
+}
+.body2{
+    margin: 100px 35%;
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    color: #212529;
+    text-align: left;
+    font: arial;
+    font-size: large;
+}
+
+.bckground {
+
+    font-size: 20px;
+    margin: 0px 0px 16px;
+}
+
+.ican {
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.last{
+    text-align: center;
+    background-color: #212529;
+    height: 30px;
+    padding: 48px;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
